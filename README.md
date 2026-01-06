@@ -1,4 +1,11 @@
-# Online-Games-Sales-Marketing-Analysis
+# Advanced Analytics for Organizational Impact
+
+### Topics Covered
+
+Data Wrangling, Data Visualisation with Python and R, Python for Advanced Analytics (scipy, statsmodels, and scikit-learn), R (tidyverse, dplyr, ggplot2), Linear Regression, Multiple Linear Regression, Logistic Regression, K-means Clustering, Natural Language Processing, Sentiment Analysis.
+
+
+#### *Grade: Distinction*
 
 ## Project Scope
 
